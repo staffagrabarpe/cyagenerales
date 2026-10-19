@@ -4,3 +4,5 @@ src
 Dockerfile
 .dockerignore
 README.md
+.htaccess
+tools
